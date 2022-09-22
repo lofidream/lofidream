@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Luca :)
-- 👀 I’m interested in software development, videogames and manga comics!
-- 📫 How to reach me: lbonacina1997@gmail.com
+- 👨‍🎓 B.Sc. in Computer Science @unimib
+- 💡 I’m interested in software development, videogames and manga comics!
+- 📩 How to reach me: lbonacina1997@gmail.com
 
 <!---
 lofidream/lofidream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
